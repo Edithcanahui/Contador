@@ -2,7 +2,9 @@
 
 int main() {
     int contador = 0;
-    int incremento = 1;
+    //int incremento = 1;
+    
+
 
     // Aumentar el contador
     contador += incremento;
@@ -20,4 +22,6 @@ int main() {
 
     return 0;
 }
+
+
 
